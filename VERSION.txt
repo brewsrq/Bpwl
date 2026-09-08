@@ -1,0 +1,16 @@
+The Blueprint Workout App
+Version: 1.0.0
+Release date: 2026-09-08
+
+Included capabilities
+- Full W1-W12 training prescriptions with programmed set and rep changes
+- Weight, reps, and RIR entry for every working set
+- Previous-performance and next-session progression suggestions
+- Editable exercises, alternatives, rest times, increments, and muscle credits
+- Planned and completed weekly credited reps/sets by muscle and muscle group
+- Offline refocus-cycle builder for future 12-week blocks
+- Gym calendar, manual visit logging, whole-session timer, rest timer
+- Weekly, monthly, yearly, and all-time gym-time totals
+- Body weight, measurements, calories, and macro targets
+- JSON backup/restore and Excel-friendly CSV exports
+- Responsive phone layout and offline PWA cache
